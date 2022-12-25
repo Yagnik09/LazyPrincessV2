@@ -25,7 +25,7 @@ Myself <a href=https://t.me/{}>{}</a>,\n\nI Am Alive 😜\nSend Me The Movie Nam
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.1 [ ATM Film Search Bot ]"""
     SOURCE_TXT = """<b>ATM Film Search Bot is an open source project</b>
 
-You can easily get its source code from github - <a href='https://github.com/Yagnik1199/LazyPrincessV2'>ATM Film HD</a>"""
+You can easily get its source code from github - <a href='https://github.com/Yagnik09/LazyPrincessV2'>ATM Film HD</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Search Bot will respond whenever a keyword is found the message
